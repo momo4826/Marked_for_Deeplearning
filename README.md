@@ -13,7 +13,10 @@
 - [ ] [Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 - [ ] [gobang](https://github.com/lihongxun945/gobang)
 > javascript gobang AI，可能是github上最受欢迎的五子棋AI，源码+教程
-- [ ]  
+- [ ] [recommenders](https://github.com/microsoft/recommenders)
+> Best Practices on Recommendation Systems
+- [ ] [Movie_Recommend](https://github.com/LuckyZXL2016/Movie_Recommend)
+
 
 
 ## Datasets
