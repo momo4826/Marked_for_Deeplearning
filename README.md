@@ -4,7 +4,7 @@
 - [ ] [sentiment analysis competition](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
 - [ ] [Neural Machine Translation](https://github.com/tensorflow/nmt)
 - [ ] [deepjazz](https://github.com/jisungk/deepjazz)
-- [ ] [tensorflow-shakespeare-poem-generator](https://github.com/burliEnterprises/tensorflow-shakespeare-poem-generator)
+- [x] [Text generation with an RNN(shakespeare)](https://www.tensorflow.org/tutorials/text/text_generation)
 - [ ] [movie_recommender](https://github.com/chengstone/movie_recommender)
 - [ ] [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)
 - [ ] [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
